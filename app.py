@@ -1,5 +1,5 @@
 while True:
-    name = input("Speak your name: ").strip()
+    name = input("SPEAK YOUR NAME: ").strip()
 
     clean_name = name.replace(" ", "").replace("-", "")
     
