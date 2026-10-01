@@ -1,5 +1,5 @@
 Praise the Fool
 
-Fool is blessed
+Fool is blessed!!!
 
 New text
